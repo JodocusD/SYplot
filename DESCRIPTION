@@ -1,0 +1,15 @@
+Package: SYplot
+Type: Package
+Title: Syria boundaries SF plotting
+Version: 0.0.1
+Authors@R: person("Joost", "Donkers", email = "joost@protonmail.com",
+  role = c("aut", "cre"))
+Description: Enable quick plotting of SY boundaries using SF data.
+    It is using OCHA data found on 
+License: CCO
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    sf
+RoxygenNote: 6.1.1
